@@ -1,16 +1,1 @@
-JAY@HP-PRO MINGW64 ~
-$ git config --global user.name "Jay Nair"
-$ git config --global user.email "shanku_tr@yahoo.com"
-$ git config core.editor "notepad++ -multiInst -nosession"
-$ git config
-$ git init 
-$ git clone
-$ git add 
-$ git commit
-$ cd "C:\Users\JAY\Desktop\JAY\STUDY\Git\pluralsight_demo" 
-$ git init DemoApp 
-$ ls -la
-$ git status 
-"C:\Program Files\Notepad++\notepad++" README.md
-$ git add README.md
-$ git commit -m "Initial commit"
+test
